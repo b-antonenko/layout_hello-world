@@ -10,4 +10,4 @@ ___
 **Result**
 
 [Demo link](https://b-antonenko.github.io/layout_hello-world/) <br>
-[Test report]https://b-antonenko.github.io/layout_hello-world/report/html_report/)
+[Test report](https://b-antonenko.github.io/layout_hello-world/report/html_report/)
